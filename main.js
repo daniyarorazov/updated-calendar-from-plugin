@@ -1,5 +1,5 @@
 $(function(){
-    const monthNames = ['leden', 'unor', 'brezen', 'duben', 'kveten', 'cerven', 'cervenec', 'srpen', 'Zari', 'rijen', 'listopad', 'prosinec'];
+    const monthNames = ['leden', 'unor', 'brezen', 'duben', 'kveten', 'cerven', 'cervenec', 'srpen', 'zari', 'rijen', 'listopad', 'prosinec'];
 
     $('.calendar-container').calendar({
         date:new Date(),
